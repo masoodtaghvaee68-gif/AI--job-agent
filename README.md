@@ -1,7 +1,8 @@
 # AI Job Agent (Email → Analysis → Telegram)
 
-An AI-powered assistant that helps me understand job opportunities deeply.
+> 🚧 Status: Actively building (MVP in progress)
 
+An AI-powered assistant that helps me understand job opportunities deeply.
 ## What it does
 - Reads job-related emails (LinkedIn, StepStone, etc.)
 - Extracts job information
