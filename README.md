@@ -2,6 +2,7 @@
 📧 Email → 🧠 AI Analysis → 📲 Telegram
 
 > Status: MVP completed | Production-ready personal automation project
+> 
 > A real-world automation project built to understand and navigate the IT / Cloud job market more effectively.
 
 ## 🚩 Problem Statement
